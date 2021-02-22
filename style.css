@@ -103,7 +103,7 @@ a
     padding-left: 33px;
     padding-right: 25px;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 50px;
     }
 .links:hover{
     font-size: 25px;
@@ -121,6 +121,7 @@ a
 {
     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
     color: red;
+    font-size: 10px;
 margin: 50px;
 }
 .contact_1 h3
@@ -159,8 +160,8 @@ margin: 50px;
 {
     font-family:inherit;
     margin: 100px;
-    margin-left: 300px;
-    margin-right: 300px;
-    font-size: 18px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 10px;
     
 }
